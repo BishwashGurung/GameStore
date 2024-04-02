@@ -1,4 +1,7 @@
 # Ignore compiled binaries and packages
+*.sln
 /bin/
 /obj/
 
+
+.fake
