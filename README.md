@@ -1,0 +1,1 @@
+In this project I have created a REST API to interact with the GameStore Database. There is Get, Post, Put and Delete request for /games endpoint and Get request for /genre endpoint. This api was created using C#, ASP.net core and for database SQLITE was used.
