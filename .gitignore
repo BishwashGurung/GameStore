@@ -1,4 +1,5 @@
 # Ignore compiled binaries and packages
+GameStore.sln
 *.sln
 GameStore.Api/bin/
 GameStore.Api/obj/
