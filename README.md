@@ -12,7 +12,7 @@ The GameStore REST API allows clients to manage games and genres stored in the d
 - **DELETE /games/{id}**: Deletes a game by ID.
 - **GET /genres**: Retrieves a list of all genres.
 
-##Technologies Used
+## Technologies Used
 - C# Programming Language
 - ASP.NET Core Framework
 - SQLite Database
